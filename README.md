@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="assets/cissp.svg" height="132" alt="CISSP"/>
-  <img src="assets/oscp-plus.png" height="132" alt="OSCP+"/>
+  <a href="https://credentials.offsec.com/79df8097-027b-473d-b616-77e2308cc5f5"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/154969497" height="132" alt="OSCP+"/></a>
   <img src="assets/cisp-pte.svg" height="132" alt="CISP-PTE"/>
   <img src="assets/djcp.svg" height="132" alt="网络安全等级测评师（初级）"/>
 </p>
