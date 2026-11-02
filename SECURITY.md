@@ -6,7 +6,7 @@
 | --- | --- |
 | CVE-2022-38605 | [cve.org 记录](https://www.cve.org/CVERecord?id=CVE-2022-38605) |
 | CVE-2022-38606 | [cve.org 记录](https://www.cve.org/CVERecord?id=CVE-2022-38606) |
-| CVE-2022-38617 | [cve.org 记录](https://www.cve.org/CVERecord?id=CVE-2022-38617) |
+| CVE-2022-38610 | [cve.org 记录](https://www.cve.org/CVERecord?id=CVE-2022-38610) |
 
 ## 其他收录
 
