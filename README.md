@@ -11,7 +11,9 @@
 **Certificate: CISSP / OSCP+ / CISP-PTE / 网络安全等级测评师**
 
 <p align="center">
-  <img src="assets/cissp.svg" height="132" alt="CISSP"/>
+  <a target="_blank" href="https://www.credly.com/badges/0f004dd4-11f5-4fa0-baa6-01a4d9d4686c/public_url">
+  <img alt="CISSP" src="https://img.5am3.com/img//2023/08/25/22-19-31-5166e785d05237762d6678b3a8be60a7-31c156.png" height="132" style="background-color:white"/>
+</a>
   <a href="https://credentials.offsec.com/79df8097-027b-473d-b616-77e2308cc5f5"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/154969497" height="132" alt="OSCP+"/></a>
   <img src="assets/cisp-pte.svg" height="132" alt="CISP-PTE"/>
   <img src="assets/djcp.svg" height="132" alt="网络安全等级测评师（初级）"/>
