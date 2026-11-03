@@ -8,15 +8,15 @@
 
 > 8 years in security — vendor-side delivery and in-house program building. Penetration testing, security services, and building security programs from scratch.
 
-**Certificate: CISSP / OSCP+ / CISP-PTE / 网络安全等级测评师**
+**Certificate: OSCP+ / CISP-PTE / 网络安全等级测评师 / CISSP**
 
 <p align="center">
-  <a target="_blank" href="https://www.credly.com/badges/0f004dd4-11f5-4fa0-baa6-01a4d9d4686c/public_url">
-  <img alt="CISSP" src="https://img.5am3.com/img//2023/08/25/22-19-31-5166e785d05237762d6678b3a8be60a7-31c156.png" height="132" style="background-color:white"/>
-</a>
   <a href="https://credentials.offsec.com/79df8097-027b-473d-b616-77e2308cc5f5"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/154969497" height="132" alt="OSCP+"/></a>
   <img src="assets/cisp-pte.svg" height="132" alt="CISP-PTE"/>
   <img src="assets/djcp.svg" height="132" alt="网络安全等级测评师（初级）"/>
+  <a target="_blank" href="https://www.credly.com/badges/0f004dd4-11f5-4fa0-baa6-01a4d9d4686c/public_url">
+  <img alt="CISSP" src="https://img.5am3.com/img//2023/08/25/22-19-31-5166e785d05237762d6678b3a8be60a7-31c156.png" height="132" style="background-color:white"/>
+</a>
 </p>
 
 **在做的事**：企业安全建设、渗透测试、安全服务。另外在读人工智能硕士(非全)，琢磨 AI 和安全怎么结合。
